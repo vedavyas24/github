@@ -8,5 +8,5 @@ working directory: means un tracked files
 
 
 git commands:
-git add
+git add .
 git commit -m""(we can give message)
