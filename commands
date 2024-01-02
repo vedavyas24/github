@@ -1,0 +1,12 @@
+remote repository:
+local repository:
+staging area:
+working directory: means un tracked files
+
+
+
+
+
+git commands:
+git add
+git commit -m""(we can give message)
