@@ -8,5 +8,7 @@ working directory: means un tracked files
 
 
 git commands:
-git add .
+git add .(if we add DOT all gets added)
 git commit -m""(we can give message)
+git checkout: we can jump from branches
+git checkout -b""  : create new branch
